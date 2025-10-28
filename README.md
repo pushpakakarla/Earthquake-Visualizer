@@ -1,5 +1,3 @@
-# Earthquake-Visualizer
-Interactive Earthquake Visualizer built with React and Leaflet, using real-time data from the USGS Earthquake API. Displays global seismic activity with dynamic clustering, filtering, and map interaction for exploring recent earthquakes worldwide.
 # 🌍 Earthquake Visualizer
 
 An interactive web app to visualize recent earthquake activity worldwide using real-time data from the **USGS Earthquake API**.  
