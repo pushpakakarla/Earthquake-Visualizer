@@ -1,0 +1,28 @@
+.leaflet-container {
+  background-color: #101820;
+  animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.leaflet-popup-content-wrapper {
+  background: #1e293b;
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.leaflet-tooltip {
+  background-color: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
