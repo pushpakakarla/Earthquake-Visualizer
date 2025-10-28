@@ -1,5 +1,5 @@
 # 🌍 Earthquake Visualizer
-
+link: https://s39jn5.csb.app/
 An interactive web app to visualize recent earthquake activity worldwide using real-time data from the **USGS Earthquake API**.  
 Built for learners and researchers who want to understand **global seismic patterns** through an intuitive, map-based interface.
 
